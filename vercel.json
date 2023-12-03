@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "*.js": {
-      "runtime": "bot@1.0.0"
-    }
-  }
-}
