@@ -19,5 +19,6 @@
   },
   "limits": {
     "timeout": 60000
-  }
+  },
+  "type": "module"
 }
