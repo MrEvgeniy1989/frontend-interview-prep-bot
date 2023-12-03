@@ -93,4 +93,4 @@ bot.catch((err) => {
 });
 
 bot.start()
-module.exports = bot
+export default bot;
