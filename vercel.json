@@ -1,15 +1,7 @@
 {
-  "version": 2,
-
   "functions": {
     "*.js": {
       "runtime": "bot@1.0.0"
     }
-  },
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/"
-    }
-  ]
+  }
 }
