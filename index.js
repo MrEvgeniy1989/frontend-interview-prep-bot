@@ -79,7 +79,6 @@ bot.on('callback_query:data', async (ctx) => {
     await ctx.answerCallbackQuery();
 });
 
-
 bot.catch((err) => {
     const ctx = err.ctx;
     console.error(`Error while handling update ${ctx.update.update_id}:`);
