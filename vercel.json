@@ -6,6 +6,11 @@
       "use": "@vercel/node"
     }
   ],
+  "functions": {
+    "api/**": {
+      "runtime": "bot"
+    }
+  },
   "routes": [
     {
       "src": "/(.*)",
