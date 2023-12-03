@@ -3,7 +3,7 @@
 
   "functions": {
     "api/**": {
-      "runtime": "bot"
+      "runtime": "bot@1.0.0"
     }
   },
   "routes": [
